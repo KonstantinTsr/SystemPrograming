@@ -1,5 +1,0 @@
-LIBRARY "Dll06.09"
-EXPORTS
-    count @1 DATA
-    Add @2
-    Sub @3
