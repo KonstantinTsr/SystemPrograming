@@ -1,6 +1,0 @@
-LIBRARY "TriangleDll13.09" 
-EXPORTS
-    SetSides @1
-    CalculateArea @2
-    CalculatePerimeter @3
-    GetTriangleDescription @4
